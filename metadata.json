@@ -1,0 +1,5 @@
+{
+  "name": "Family Tree Builder",
+  "description": "A production-ready family tree web application with an infinite canvas builder.",
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
